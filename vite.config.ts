@@ -49,6 +49,7 @@ const config = () => {
         },
       },
     },
+    base: '/chitchatter/',
     build: {
       // NOTE: This isn't really working. At the very least, it's still useful
       // for exposing source code to users.
